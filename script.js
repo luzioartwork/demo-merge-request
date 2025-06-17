@@ -4,3 +4,5 @@ const alumno = "Brenda";
 console.log("Participante:", alumno);
 
 // Tu turno 👇
+const alumno = "Luciano Nahuel Vega Diaz";
+console.log("Participante:", alumno);
